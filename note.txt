@@ -1,0 +1,2 @@
+set FLASK_APP=handgesture_flask.py
+flask run 
